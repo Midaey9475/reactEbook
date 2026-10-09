@@ -41,7 +41,7 @@ const Products = () => {
   return (
     <>
     <section
-    className='h-60 bg-[linear-gradient(45deg,#3992df,#a6a2a2be,#2585d8)] flex flex-col items-center justify-center text-center text-4xl font-black'>
+    className='h-fit px-4 py-6 bg-[linear-gradient(45deg,#3992df,#a6a2a2be,#2585d8)] flex flex-col items-center justify-center text-center text-4xl font-black'>
         NOT A PROJECT, BUT A DEMO FOR THE BUILDING WITH REACT eBOOK
         <span className='text-lg font-normal mt-2'><a href="https://github.com/Midaey9475/reactEbook">Visit the GitHub repository to learn more!</a></span>
     </section>
